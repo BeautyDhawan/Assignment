@@ -1,0 +1,12 @@
+<suite name = "QuickerJObs">
+
+    <test name = "LoginPage">
+        <classes>
+            <class name ="com.quicker.testcases.PopUpPageTest"></class>
+
+        </classes>
+    </test>
+
+
+
+</suite>
